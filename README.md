@@ -12,3 +12,9 @@ Topics Covered - a) Interfaces b) Generics c) Abstract Classes d) Arrays
 
 --------------
 
+Date - 17/02/25
+
+Topics Covered - a) More on Generics b) Type Narrowing c) Discriminated Unions d) Exhaustiveness Checking
+
+--------------
+
