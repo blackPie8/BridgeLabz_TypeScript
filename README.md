@@ -18,3 +18,9 @@ Topics Covered - a) More on Generics b) Type Narrowing c) Discriminated Unions d
 
 --------------
 
+Date - 18/02/25
+
+Topics Covered - a) class using interfaces b) class Decorator
+
+--------------
+
